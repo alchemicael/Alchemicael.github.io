@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Саморазвитие | Academic</title>
+    <link>https://example.com/tag/%D1%81%D0%B0%D0%BC%D0%BE%D1%80%D0%B0%D0%B7%D0%B2%D0%B8%D1%82%D0%B8%D0%B5/</link>
+      <atom:link href="https://example.com/tag/%D1%81%D0%B0%D0%BC%D0%BE%D1%80%D0%B0%D0%B7%D0%B2%D0%B8%D1%82%D0%B8%D0%B5/index.xml" rel="self" type="application/rss+xml" />
+    <description>Саморазвитие</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 10 Mar 2023 14:06:54 +0300</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Саморазвитие</title>
+      <link>https://example.com/tag/%D1%81%D0%B0%D0%BC%D0%BE%D1%80%D0%B0%D0%B7%D0%B2%D0%B8%D1%82%D0%B8%D0%B5/</link>
+    </image>
+    
+    <item>
+      <title>Вторник</title>
+      <link>https://example.com/post/last_week_2/</link>
+      <pubDate>Fri, 10 Mar 2023 14:06:54 +0300</pubDate>
+      <guid>https://example.com/post/last_week_2/</guid>
+      <description>&lt;p style=&#34;text-align: justify;&#34;&gt;Добрый день, дорогие читатели. Сегодня я расскажу вам о том, что приключилось со мной во вторник. Этот день знаменит у нашей группы тем, что пар, кроме физкультуры, совсем нет. Я сидел на скамейке в МегаСфере и не надеялся, что кто-то со мной заговорит. Но о чудо! Я познакомился с парнем из другого направления. Мы разговаривали всё занятие и по дороге до общежития. Включайте уведомления, чтобы не пропускать мои новые посты!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Понедельник</title>
+      <link>https://example.com/post/last_week/</link>
+      <pubDate>Fri, 10 Mar 2023 13:53:29 +0300</pubDate>
+      <guid>https://example.com/post/last_week/</guid>
+      <description>&lt;p style=&#34;text-align: justify;&#34;&gt;За прошедшую неделю много чего произошло. Каждый день запомнился мне чем-то особенным. В понедельник мы сходили в StarHitCafe вместе с друзьями после пары по английскому языку. Затем прогулялись до станции метро Октябрьской, вернулись на Орджо и доделали лабораторные работы. Продолжение совсем скоро!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
